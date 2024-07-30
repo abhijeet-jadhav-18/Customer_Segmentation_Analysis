@@ -44,7 +44,7 @@ After the data cleaning process, exploratory analysis on the dataset is performe
   </tr>
   <tr>
     <td><img src="Data%20Visualization/Old%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
+    <td><img src="Data%20Visualization/New%20Customers%20Age%20Distribution.PNG" height="400" align="middle"></td>
   </tr>
   </table>
   
